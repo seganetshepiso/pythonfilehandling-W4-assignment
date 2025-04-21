@@ -1,6 +1,6 @@
 def file_processor():
     # Get input filename from user
-    input_filename = input("Enter the name of the file to read: ")
+    input_filename = input("pythonhandling: ")
     output_filename = input("Enter the name of the output file: ")
     
     try:
